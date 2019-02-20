@@ -1,7 +1,7 @@
 # Medicom Package
 
 This is a simple example package. You can use
-[Github-medicom-services](https://github.com/vivekbarsagadey/medicom-services.git)
+[Github-medicom-services]
 to write your content.
 
 # How to run
