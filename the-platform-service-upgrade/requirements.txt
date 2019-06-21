@@ -1,0 +1,9 @@
+Flask==1.0.2
+flask-restplus==0.12.1
+scikit-learn==0.20.3
+pandas==0.24.2
+xlrd==1.2.0
+python-dotenv==0.10.1
+Flask-Cors==3.0.7
+tensorflow==2.0.0a0
+h5py==2.9.0
