@@ -4,6 +4,6 @@ scikit-learn==0.20.3
 pandas==0.24.2
 xlrd==1.2.0
 python-dotenv==0.10.1
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 tensorflow==2.0.0a0
 h5py==2.9.0
